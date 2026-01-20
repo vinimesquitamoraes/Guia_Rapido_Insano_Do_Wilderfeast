@@ -1,0 +1,32 @@
+- Vigor representa sua <span style="color: #ff004d;">Saúde</span> e <span style="color: #00e436;">Energia</span>;
+- Vigor == 0 resulta em estado [[Ferido]];
+- Ficar [[Ferido]] recarrega seu Vigor ao valor máximo se o estágio de Ferido < 3;
+- Se já estiver [[Ferido]], aumenta o estágio de [[Ferido]] em 1;
+- Vigor é recuperado principalmente por meio de refeições e Recessos;
+## Técnica
+- Muitas Técnicas custam Vigor;
+- Gastar mais Vigor do que você tem, você ficar [[Ferido]] 
+- Se o gasto for maior que o vigor restante, você paga o custo restante após a recarga do vigor máximo;
+- Exemplo:
+	- Tesouro tem 20 de Vigor Max;
+	- Tesouro tem 3 de Vigor restante;
+	- Usa Técnica de CUTELO A LÂMINA INEVITÁVEL que custa 10;
+		- Vigor = 3 - 10
+		- <span style="color: #be1250;"> Excedeu em 7 </span>;
+	- Seu Vigor chega 0 e ele recebe condição de Ferido;
+	- Seu Vigor é recarregado ao valor máximo se o estágio de Ferido < 3;
+	- Se teve algum <span style="color: #be1250;"> excedente </span>; ele é deduzido agora
+		- Vigor = 20 - 7;
+	- Vigor Final = 13 e condição Ferido 1;
+## Dano
+- Vigor é afetado por Dano;
+- Dano é qualquer maleficio que a medida que se acumula, aumenta o risco de você errar e se machucar gravemente como dor física, exaustão, duvida ou veneno por exemplo;
+- Diferente do gasto por técnica, você  não paga o custo restante após a recarga do vigor máximo;
+- Exemplo:
+	- Tesouro tem 20 de Vigor Max;
+	- Tesouro tem 3 de Vigor restante e está com condição [[Ferido]] 1;
+	- Tesouro sofre 10 de dano;
+		- Vigor = 3 - 10
+	- Seu Vigor chega 0 e sua condição de Ferido aumenta em 1;
+	- Seu Vigor é recarregado ao valor máximo se o estágio de Ferido < 3;
+	- Vigor Final = 20 e condição Ferido 2;
