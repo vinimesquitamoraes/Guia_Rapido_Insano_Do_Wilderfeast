@@ -11,10 +11,14 @@
             "id": "bd27f8890b94856d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Gameplay/Opções De Combate/Atacar (Variavél).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Atacar (Variavél)"
             }
           }
         ]
@@ -181,17 +185,21 @@
   },
   "active": "bd27f8890b94856d",
   "lastOpenFiles": [
+    "Gameplay/Opções De Combate",
+    "Pasted image 20260121213806.png",
+    "Gameplay/Opções De Combate/Atacar (Variavél).md",
+    "Pasted image 20260121213611.png",
+    "Gameplay/0_Teste de Rolagem.canvas",
     "Fichas/Ficha_Vinier.pdf",
+    "Gameplay/Vantagem e Desvantagem.md",
     "Condições/Ferido.md",
     "Fontes/Sassoon Felt W00 Regular.ttf",
     "Fontes",
     "Nova pasta",
-    "Gameplay/0_Teste de Rolagem.canvas",
     "Fichas/0_Todas.canvas",
     "Gameplay/Brio e Tino.md",
     "Gameplay/Exemplo Tino.png",
     "Gameplay/Passos de Rolagem.png",
-    "Gameplay/Vantagem e Desvantagem.md",
     "Stats/Vigor.md",
     "Atalhos.md",
     "Prints/Habilidades.png",

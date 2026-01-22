@@ -1,0 +1,1 @@
+Para atacar, faça <span style="color=>

@@ -4,7 +4,8 @@
 		{"id":"a16012b4a7a98ddf","type":"file","file":"Prints/Habilidades.png","x":-2960,"y":-800,"width":1046,"height":740},
 		{"id":"ed2c09d25816db5f","type":"text","text":"Se você possui >= 1 na habilidade testada, é possível incrementar o resultado dos dados de acordo com o nível da habilidade.\no incremento é distribuível:\nExemplo:\n\tTesouro possui +2 em Cura;\n\tTesouro jogou tirou 4, 4 e 1 nos dados de Estilo e 7 no dado de Ação;\n\tTesouro pode aumentar um dos dados de Estilo em +1 e o dado de ação em +1;\n\tFicando por exemplo como:\n\t 5, 4, 1 e 8;\n\t","x":-1780,"y":-650,"width":500,"height":440,"color":"1"},
 		{"id":"055f1abfd70dc5cf","type":"file","file":"Gameplay/Brio e Tino.md","x":-1260,"y":-1480,"width":760,"height":520},
-		{"id":"7eeb9343943ef69e","type":"file","file":"Gameplay/Vantagem e Desvantagem.md","x":-500,"y":-670,"width":920,"height":480}
+		{"id":"7eeb9343943ef69e","type":"file","file":"Gameplay/Vantagem e Desvantagem.md","x":-500,"y":-670,"width":920,"height":480},
+		{"id":"7999edbb1f314144","type":"file","file":"Pasted image 20260121213611.png","x":-2720,"y":-2200,"width":892,"height":1237}
 	],
 	"edges":[
 		{"id":"64a1715ebc435f5b","fromNode":"a16012b4a7a98ddf","fromSide":"right","toNode":"ed2c09d25816db5f","toSide":"left","color":"1"},
