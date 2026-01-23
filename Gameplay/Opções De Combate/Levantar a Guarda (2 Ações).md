@@ -1,0 +1,1 @@
+Você se prepara contra possíveis golpes. Até o início da sua próxima rodada, reduza á metade todo o Dano Sofrido.

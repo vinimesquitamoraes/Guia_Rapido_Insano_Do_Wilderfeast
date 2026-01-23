@@ -1,0 +1,1 @@
+Você tenta algum a coisa não prevista nas regras-padrão. Declare seu objetivo, defina a abordagem, faça um Teste e resolva as consequências usando as regras para a fase livre.

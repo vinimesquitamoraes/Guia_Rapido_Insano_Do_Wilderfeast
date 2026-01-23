@@ -1,0 +1,1 @@
+Recupere 1 de Durabilidade de seu UTENSÍLIO. Monstros não podem Consertar.

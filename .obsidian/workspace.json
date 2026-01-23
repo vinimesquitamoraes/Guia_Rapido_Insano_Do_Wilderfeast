@@ -11,14 +11,17 @@
             "id": "bd27f8890b94856d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Gameplay/Opções De Combate/Atacar (Variavél).md",
-                "mode": "source",
-                "source": false
+                "file": "Gameplay/0_Teste de Rolagem.canvas",
+                "viewState": {
+                  "x": -295.7793802691813,
+                  "y": -298.4960145172578,
+                  "zoom": -1.5935245142245802
+                }
               },
-              "icon": "lucide-file",
-              "title": "Atacar (Variavél)"
+              "icon": "lucide-layout-dashboard",
+              "title": "0_Teste de Rolagem"
             }
           }
         ]
@@ -185,14 +188,24 @@
   },
   "active": "bd27f8890b94856d",
   "lastOpenFiles": [
+    "Gameplay/Opções De Combate/Usar um Traço(Variável).md",
+    "Stats/Traços.md",
+    "Prints/Habilidades.png",
+    "Gameplay/Opções De Combate/Atacar (Variável).md",
+    "Gameplay/0_Teste de Rolagem.canvas",
+    "Gameplay/Opções De Combate/Provocar(1 Ação).md",
+    "Gameplay/Opções De Combate/Consertar(2 Ações).md",
+    "Gameplay/Opções De Combate/Preparar(1 Ação).md",
+    "Gameplay/Opções De Combate/Mover(1 Ação).md",
+    "Gameplay/Opções De Combate/Improvisar(1 Ação).md",
+    "Gameplay/Opções De Combate/Levantar a Guarda (2 Ações).md",
+    "Gameplay/Opções De Combate/Comer (1 Ação).md",
+    "Condições/Ferido.md",
+    "Fichas/Ficha_Vinier.pdf",
     "Gameplay/Opções De Combate",
     "Pasted image 20260121213806.png",
-    "Gameplay/Opções De Combate/Atacar (Variavél).md",
     "Pasted image 20260121213611.png",
-    "Gameplay/0_Teste de Rolagem.canvas",
-    "Fichas/Ficha_Vinier.pdf",
     "Gameplay/Vantagem e Desvantagem.md",
-    "Condições/Ferido.md",
     "Fontes/Sassoon Felt W00 Regular.ttf",
     "Fontes",
     "Nova pasta",
@@ -202,7 +215,6 @@
     "Gameplay/Passos de Rolagem.png",
     "Stats/Vigor.md",
     "Atalhos.md",
-    "Prints/Habilidades.png",
     "Estilos",
     "Gameplay/Teste de Rolagem.md",
     "Prints",

@@ -1,0 +1,5 @@
+Traços são úteis para mais coisas do que só virar o bicho. Cada <a href="obsidian://open?vault=Guia_Rapido_Insano_Do_Wilderfeast&file=Stats%2FTra%C3%A7os" style="color:1560b3">TRAÇO</a> tem um efeito mecânico explícito, bem como um custo para usá-lo.
+- Se ele custar Ações, gaste as Ações e use-o.
+- Se ele custar Sucessos, use o <a href="obsidian://open?vault=Guia_Rapido_Insano_Do_Wilderfeast&file=Stats%2FTra%C3%A7os" style="color:1560b3">TRAÇO</a> depois de realizar um Teste com Sucessos adicionais.
+- Se ele custar Vigor, gaste o Vigor e use-o. Como isso não custa Ações, você pode continuar usando o <a href="obsidian://open?vault=Guia_Rapido_Insano_Do_Wilderfeast&file=Stats%2FTra%C3%A7os" style="color:1560b3">TRAÇO</a> desde que tenha Vigor para gastar.
+- Se não tiver um custo (por ser um <a href="obsidian://open?vault=Guia_Rapido_Insano_Do_Wilderfeast&file=Stats%2FTra%C3%A7os" style="color:1560b3">TRAÇO</a> Passivo), você pode usá-lo quando o efeito permitir.

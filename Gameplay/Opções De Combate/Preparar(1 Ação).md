@@ -1,0 +1,1 @@
+Você recebe 1 Ação extra no começo de seu próximo turno. Você só pode Preparar uma vez por turno.

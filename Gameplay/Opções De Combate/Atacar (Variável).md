@@ -1,0 +1,11 @@
+Para atacar, faça <span style="color:065ab5">GOLPEAR</span> ou <span style="color:065ab5">ATIRAR</span>, usando qualquer <span style="color:ffec27">ESTILO</span>. A escolha de Habilidade depende do Alcance da PARTE que está sendo usada para  Atacar. O Monstro, às vezes, pode usar <a style="color:065ab5" href="obsidian://open?vault=Guia_Rapido_Insano_Do_Wilderfeast&file=Prints%2FHabilidades.png">HABILIDADES</a> alternativas para atacar, listada em parênteses depois da PARTE relevante.
+
+Além disso, um ataque tem diferentes efeitos e custos dependendo do seu Estilo:
+
+| <center>Estilo</center>                                     | <center>Custo<br>(Ações)</center> | <center>Descrição</center> | <center>Se Acertar</center> | <center>Se Errar</center>                      |
+| ----------------------------------------------------------- | --------------------------------- | -------------------------- | --------------------------- | ---------------------------------------------- |
+| <center><span style="color:ffec27">PODEROSO</span></center> | <center>2</center>                | Você vai com tudo          | [A] X 2 De Dano             | Fica <span style="color:ff004d">EXPOSTO</span> |
+| <center><span style="color:ffec27">PRECISO</span></center>  | <center>2</center>                | Você mira com cuidado      | [A] De Dano a PARTE         | Não acontece nada                              |
+| <center><span style="color:ffec27">LIGEIRO</span></center>  | <center>1</center>                | Você foca em velocidade    | [A] De Dano                 | Não acontece nada                              |
+| <center><span style="color:ffec27">SAGAZ</span></center>    | <center>1</center>                | Você tenta uma finta       | [A] X 2 De Dano             | Fica <span style="color:ff004d">EXPOSTO</span> |
+- Atacar múltiplas vezes requer que você escolha um <span style="color:ffec27">ESTILO</span> diferente para cada ataque.
