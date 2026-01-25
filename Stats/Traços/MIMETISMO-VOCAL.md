@@ -1,0 +1,1 @@
+MIMETISMO-VOCAL (Custo: 2 Ações) Faça um CHAMAR SAGAZ. Se passar, escolha um desses efeitos: uma criatura a sua escolha fica Confusa [A], uma criatura a sua escolha fica Amedrontada [A], ou todas as criaturas a até 1 Pernada de você sofrem cada uma [A] de Dano e ficam Atordoadas.

@@ -1,0 +1,1 @@
+NÃO-ME-TOQUE (Passiva) Se uma criatura fizer um AGARRAR ou GOLPEAR contra você, cause 1 de Dano a ela.

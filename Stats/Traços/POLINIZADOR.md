@@ -1,0 +1,1 @@
+POLINIZADOR (Custo: 1 Sucesso em um PROCURAR) Harmonia aumenta em 1.

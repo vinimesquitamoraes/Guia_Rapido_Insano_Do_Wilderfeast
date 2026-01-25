@@ -1,0 +1,1 @@
+CARNICEIRO (Passiva) Você não pode ficar Envenenado por comida. Se Forragear (com sucesso ou não), você também recebe <H> porções do seguinte Ingrediente: Detritos. Receba (1) Envenenado.

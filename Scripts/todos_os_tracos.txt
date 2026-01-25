@@ -1,0 +1,91 @@
+AMEAÇAR (Custo: 1 Sucesso PODEROSO) Uma criatura à sua escolha fica Amedrontada.
+AMEAÇAR-2 (Custo: 1 Sucesso PODEROSO) Criaturas à sua escolha ficam Amedrontadas.
+APOSEMÁTICO (Custo: 2 Ações) Faça um EXIBIR usando qualquer ESTILO. Você fica Exposto e uma criatura à sua escolha fica Amedrontada [A].Criaturas APOSEMÁTICAS alertam predadores que não vale a pena devorá-las, normalmente por meio de cores brilhantes. Esse TRAÇO também pode representar mimicas e outras medidas alarmantes sem mudar sua mecânica.
+ARMADURA-NATURAL (Passiva) Você reduz à metade o Dano causado por GOLPEAR PODEROSO e ATIRAR PODEROSO. 
+BANHA (Passiva) Seu Vigor máximo aumenta em 10, mas somente durante A Trilha.
+BANHA-2 (Passiva) Seu Vigor máximo aumenta em 10.
+BIOLUMINESCÊNCIA (Custo: 1 Sucesso SAGAZ) Uma criatura à sua escolha fica Confusa.
+BIOLUMINESCÊNCIA 2 (Custo: 1 Sucesso SAGAZ) Uma criatura à sua escolha fica Confusa 2.
+BIOLUMINESCÊNCIA 3 (Custo: 1 Sucesso SAGAZ) Uma criatura à sua escolha fica Confusa 3.
+BRINCALHÃO (Custo: 1 Sucesso) Harmonia aumenta em 1. Você pode aumentar Harmonia além do máximo, mas só pode usar esse TRAÇO durante o Recesso.
+CABEÇADA (Custo: 1 Sucesso) Depois de atacar uma criatura, empurre-a para 1 Pernada de você. Se a criatura estiver escalando ou voando, ela cai no Chão.
+CAMUFLAGEM (Custo: 1 Sucesso SAGAZ) Você fica Escondido.
+CARNICEIRO (Passiva) Você não pode ficar Envenenado por comida. Se Forragear (com sucesso ou não), você também recebe <H> porções do seguinte Ingrediente: Detritos. Receba (1) Envenenado.
+CATAR PIOLHO (Passiva) Se você ajudar um parça a ASSEGURAR, CHAMAR ou EXIBIR e passarem, a Harmonia aumenta em 1.
+CHAFURDAR (Passiva) Quando você Acampa, pode restaurar uma PARTE para sua Durabilidade máxima.
+CHEIRO-DE-SANGUE (Passiva) Você tem Vantagem em todos os Testes durante a primeira rodada da Caçada se do outro lado houver uma criatura Ferida.
+CHOQUE-ELÉTRICO (Custo: 2 Ações) Faça um CHAMAR LIGEIRO. Se passar, cada criatura a até 1 Pernada sofre [A] de Dano e fica Atordoada.
+CLARÃO (Custo: 2 Ações) Faça um EXIBIR LIGEIRO. Se passar, uma criatura à sua escolha fica Atordoada e Confusa [A]. 
+CONSTRUTOR-DE-NINHO (Passiva) Quando a matilha Acampa, você e seus parças podem manter todos os níveis de uma Condição ao invés de removê-los.
+CORPO-QUENTE (Passiva) No começo de cada rodada, todas as criaturas à sua escolha em até 0 Pernada de você sofrem 2 de Dano. Além disso, se você estiver Preso por uma PARTE, essa PARTE fica Queimada. Por fim, suas PARTES não podem ficar Queimadas. . 
+CULTIVADOR (Passiva) Dobre os efeitos recebidos por ceder sua porção do Banquete.
+DEFENSOR-DO-REBANHO (Passiva) Se você Agrupar com uma criatura, vocês dois podem Levantar a Guarda sem gastar Ações. 
+DESORIENTAR (Passiva) Criaturas que ataquem você (acertando ou não) ficam Confusas.
+DEVORADOR-DE-ENERGIA (Passiva) Se estiver Convalescente e passar o Recesso próximo a uma leylinha, você recupera 10 de Vigor. Se estiver Ferido e passar o Recesso próximo a uma leylinha, você remove um nível adicional de Ferido. 
+DIETA-GENERALISTA (Passiva) Quando comer uma refeição com um efeito adicional, você pode ignorá-lo e recuperar Vigor como se tivesse preparado a refeição com Tempero (se a refeição já foi preparada com Tempero, não dobre o Vigor recuperado novamente).
+DIETA-SELETIVA (Passiva) Quando receber esse TRAÇO, nomeie um Ingrediente. Você recebe <H> porções desse Ingrediente no começo de cada Recesso e quando Reabastecer.
+DIGESTÃO-LENTA (Passiva) Refeições com efeitos que durem até a sua próxima refeição duram até o fim da Jornada.
+ECOLOCALIZAÇÃO (Custo: 1 Sucesso em um CHAMAR) Uma criatura à sua escolha fica Exposta.
+ELETRORRECEPTIVIDADE (Passiva) Criaturas Escondidas não têm Vantagem se Atacarem você.Criaturas ELETRORRECEPTIVAS podem sentir correntes elétricas, principalmente as geradas por outros animais. Este TRAÇO poderia representar outros sentidos pouco convencionais, como a habilidade para detectar radiação infravermelha ou leylinhas, sem mudar a mecânica.
+ENGOLIR-INTEIRO (Custo: 1 Ação) Coma qualquer quantidade de Ingredientes para recuperar uma quantidade igual de Vigor. Você não recebe nenhum efeito bônus.
+ENXAME (Passiva) Se você ajudar uma criatura que também tem esse TRAÇO, ambos recuperam <H> de Vigor.
+ESCALAR (Passiva) Você pode ESCALAR sem Desvantagem.
+ESCALAR-2 (Passiva) Você pode ESCALAR sem Desvantagem. Além disso, ao Mover-se enquanto escala, você pode se Mover 2 Pernadas em vez de 1.
+ESCALAR-3 (Passiva) Você pode ESCALAR sem Desvantagem. Além disso, Ao Mover-se enquanto escala, você pode se Mover até 2 Pernadas em vez de 1. Por fim, você tem Vantagem para ATRAVESSAR enquanto escala.
+ESCAVAR (Passiva) Você pode cavar.
+ESCAVAR-2 (Passiva) Você pode cavar. Além disso, ao Mover-se enquanto cava, você pode se Mover até 2 Pernadas em vez de 1.
+ESCAVAR-3 (Passiva) Você pode cavar. Além disso, ao Mover-se enquanto cava, você pode se Mover até 2 Pernadas em vez de 1. Por fim, você tem Vantagem em ATRAVESSAR enquanto cava.
+ESCORREGADIO (Passiva) Você não pode ficar Preso.
+ESTASE (Passiva) Quando estiver prestes a morrer, você entra em estase. Sua matilha deve Trabalhar em um Projeto durante o Recesso para revivê-lo, completando um Desafio VA 10. O VA aumenta em 10 para cada vez que você usa esse TRAÇO subsequentemente. • EXPANDIR. (Custo: 1 Ação) Você fica Expandido.
+EXPLOSÃO-SÔNICA (Passiva) Quando Atacar, você pode CHAMAR em vez de ATIRAR ou GOLPEAR.
+FAMINTO (Custo: 1 de Harmonia) Role novamente seu Dado de Ação.
+FAMINTO representa o desejo de viver, se alimentar e crescer, amplificado por uma força sobrenatural. Toda vida tem fome, mas esse TRAÇO misterioso representa uma fome primordial e sobrenatural acima de tudo. Quando os ferais abraçam essa fome extrema, criam aberturas para que o frenesi se espalhe, tanto por dentro quanto por fora.
+FERMENTADOR (Passiva) Quando comer uma refeição, em vez de recuperar Vigor, você pode receber um número de níveis de Revigorado igual à metade da Vigor que teria recuperado.O Traço FERMENTADOR representa tanto fermentadores de digestão dianteira (conhecidos como ruminantes) quanto traseira; ambos são especializados em extrair nutrientes de plantas de dificil digestão.
+FLUTUANTE (Passiva) Desde que você possa voar, pode ignorar os Traços desta Área.
+FOTOSSÍNTESE (Custo: 3 Ações) Se você tiver acesso ao Céu, recupere seu Vigor para o máximo.
+GIGANTESCO (Passiva) Trate todas as criaturas como se estivessem 3 Pernadas mais próximas de você do que realmente estão.
+HIBERNADOR (Passiva) Cada nível de Descansado aumenta seu Vigor máximo em 2 em vez de 1.
+INABALÁVEL (Passiva) Você não pode ficar Confuso.
+INCANSÁVEL (Custo: 1 Sucesso PODEROSO) Remove <H> Fadigado e recupera <H> Vigor.
+INVESTIDA (Custo: 1 Ação) Escolha uma criatura a até 3 Pernadas. Você se Move a 0 Pernada da criatura e então causa Dano a ela e a si mesmo ao número de Pernadas que você se Moveu (Isso não conta como gastar Vigor.)
+LADRÃO (Custo: 1 Sucesso SAGAZ) Roube um Ingrediente, um Lanche ou uma criatura Presa de um alvo que esteja a até 1 Pernada de você. (Você escolhe se a criatura Presa roubada por você agora está Presa por você ou livre.)
+MERGULHAR (Custo: 1 Ação) Mova para até 0 Pernada de uma criatura em um Terreno abaixo de você (Céu está acima da maioria dos Terrenos, e o Subterrâneo está abaixo da maioria dos Terrenos. Nos demais casos, avalie conforme seu julgamento).
+METAMORFOSE (Passiva) Durante O Banquete, você pode perder este TRAÇO permanentemente. Se fizer isso, escolha dois ESTILOS, HABILIDADES ou TRAÇOS para ganhar um nível no lugar deste traço.
+MIGRADOR Você tem Vantagem para ATRAVESSAR em áreas onde já esteve.
+MIMETISMO-VOCAL (Custo: 2 Ações) Faça um CHAMAR SAGAZ. Se passar, escolha um desses efeitos: uma criatura a sua escolha fica Confusa [A], uma criatura a sua escolha fica Amedrontada [A], ou todas as criaturas a até 1 Pernada de você sofrem cada uma [A] de Dano e ficam Atordoadas.
+MIRA-INSTINTIVA (Custo: 1 Sucesso em ATIRAR) A criatura atingida por ATIRAR fica Atordoada.
+NADAR (Passiva) Você pode nadar sem Desvantagem.
+NADAR-2 (Passiva) Você pode nadar sem Desvantagem. Além disso, caso se Mova enquanto nada, você pode se Mover até 2 Pernadas em vez de 1.
+NADAR-3 (Passiva) Você pode nadar sem Desvantagem. Além disso, caso se Mova enquanto nada, você pode se Mover até 2 Pernadas em vez de 1. Por fim, você tem Vantagem para ATRAVESSAR enquanto nada.
+NÃO-ME-TOQUE (Passiva) Se uma criatura fizer um AGARRAR ou GOLPEAR contra você, cause 1 de Dano a ela.
+NÃO-ME-TOQUE-2-A-5 (Passiva) Se uma criatura fizer um AGARRAR ou GOLPEAR contra você, cause 1 de Dano a ela para cada nível desse TRAÇO.
+OSTENTAR (Custo: 2 Ações) Faça um EXIBIR PODEROSO. Se passar, todas as criaturas à sua escolha recuperam [A] de Vigor.
+PACIÊNCIA (Passiva) Você pode Preparar até 3 vezes por turno.
+PARASITA DE NINHADA (Passiva) Quando trabalhar em um Projeto, escolha um NPC: o personagem escolhido também faz um Teste para contribuir para o seu projeto. (Trabalhe com a Guia para determinar os detalhes, como a maneira como o NPC ajuda e como você o convenceu a fazê-lo.)
+PERSEGUIÇÃO DO PREDADOR (Passina) Se você se Mover em direção a uma criatura, ganhe Vantagem ao Ataca-la até o final do seu turno.
+POLINIZADOR (Custo: 1 Sucesso em um PROCURAR) Harmonia aumenta em 1.
+PREDADOR-DE-EMBOSCADA (Passiva) Se você Atacar enquanto estiver Escondido, você causa o dobro do Dano.
+PREDADOR-RESISTENTE (Custo: 1 Sucesso PODEROSO on LIGEIRO) Uma criatura à sua escolha fica Fadigada. 
+PREDADOR-SOCIÁVEL (Passive) Se você Agrupar com uma criatura ela tem Vantagem na próxima vez que Atacar.
+PROFESSOR (Custo: 1 Sucesso PRECISO) Até o final da rodada, seus parças têm Vantagem se fizerem um Teste usando a mesma HABILIDADE que você usou ao ativar esse TRAÇO.
+RECUO (Custo: 1 Sucesso PODEROSO ou PRECISO) Você Levanta a guarda sem gastar Ações, mas não pode se Mover até o início do seu próximo turno.
+REFLEXOS-NATURAIS (Passiva) Você reduz o Dano causado por GOLPEAR LIGEIRO ATIRAR LIGEIRO pela metade.
+REGENERAÇÃO (Custo: 1 Sucesso) Recupere 1 de Durabilidade de uma de suas PARTES.
+REGENERAÇÃO-2-A-5 (Custo: 1 Sucesso) Recupere 1 de Durabilidade de uma de suas PARTES para cada nível que tiver nesse TRAÇO. 
+RESISTENTE-A-IMPACTO. (Passiva) Você não pode ficar Atordoado.
+ROBUSTO (Passiva) Nada pode empurrá-lo ou puxá-lo, a menos que você permita ou esteja Preso.
+SACRIFICIO PARENTAL (Passiva) No início do Recesso, em vez de remover Ferido 1, você pode Trabalhar num Projeto sem gastar Ações.
+SANGUESSUGA (Custo: 3 Ações) Faça um GOLPEAR PRECISO contra uma criatura a 1 Pernada de distância. Se passar, você ganha um nível em um dos ESTILOS, HABILIDADES ou TRAÇOS da criatura até o final da Jornada (a criatura NÃO precisa ter mais níveis na característica escolhida do que você). Se você usar esse TRAÇO de novo, troque o nível que ganhou anteriormente pelo novo.
+SEDATIVO (Custo: 1 Ação) Até o começo de seu próximo turno, todas as criaturas precisam gastar 1 Ação adicional para Atacar.
+SENTIDOS-AGUÇADOS (Custo: 1 Sucesso PRECISO) Uma criatura à sua escolha fica Exposta.SENTIDOS AGUÇADOS é idéntico a ECOLOCALIZAÇÃO, exceto pelos custos diferentes. E isso é intencional - ECOLOCALIZAÇÃO, no fim das contas, é uma forma mais simples de SENTIDOS AGUÇADOS. Trabalhe a personalização desse TRAÇO com sua Guia. Se deseja representar um tipo especifico de sentido e mudar seu custo de 1 Sucesso PRECISO, você pode alterar para 1 Sucesso da HABILIDADE, caso seja apropriado. Exemplo: Uma habilidade semelhante à de uma aranha sentindo vibrações através de uma teia pode ter seu custo alterado para 1 Sucesso em MANUFATURAR
+SOPRO-DE-FOGO (Custo: 2 Ações) Faça um ATIRAR PODEROSO contra uma criatura a até 2 Pernadas de distância. Se acertar, você causa [A] Dano à Parte e a PARTE que você alvejou fica Queimada.
+TANATOSE (Passiva) Se você estiver Ferido 3 e permanecendo caído, no final de cada turno, você pode forçar a barra em vez disso. Se estiver Ferido 3 e forçando a barra, no início do seu turno, você pode escolher permanecer caído em vez disso.
+TERRITORIAL (Passiva) Você tem Vantagem em todos os Testes contra intrusos em sua Toca.
+VELOCIDADE (Custo: 1 Sucesso LIGEIRO) Você pode se Mover sem gastar uma Ação.
+VENENO (Custo: 1 Sucesso em ATIRAR ou GOLPEAR) A criatura atingida por ATIRAR ou GOLPEAR fica Envenenada.
+VENENO-2 (Custo: 1 Sucesso em ATIRAR ou GOLPEAR) A criatura atingida por ATIRAR ou GOLPEAR fica Envenenada 2. 
+VENENO-3 (Custo: 1 Sucesso em ATIRAR ou GOLPEAR) A criatura atingida por ATIRAR ou GOLPEAR fica Envenenada 3. 
+VOAR (Passiva) Você pode voar.
+VOAR-2 (Passiva) Você pode voar. Além disso, caso se Mova enquanto voa, você pode se Mover 2 Pernadas em vez de 1.
+VOAR-3 (Passiva) Você pode voar. Além disso, caso se Mova enquanto voa, você pode se Mover 2 Pernadas em vez de 1. Por fim, você tem Vantagem em todos seus ATRAVESSAR enquanto voa.
+TECE-TEIAS (Custo: 2 Ações) Faça um MANUFATURAR SAGAZ. Se passar, na próxima vez em que uma criatura hostil se Mover em sua direção, ela sofre [A] Dano à Parte e não pode se Mover até o início do próximo turno.TECE-TEIAS é mecanicamente idêntico à Técnica de Barbante nomeada ARMADILHA, mas já que não é uma Técnica em si, você pode usar TECE-TEIAS para virar o bicho.

@@ -1,0 +1,1 @@
+REFLEXOS-NATURAIS (Passiva) Você reduz o Dano causado por GOLPEAR LIGEIRO ATIRAR LIGEIRO pela metade.

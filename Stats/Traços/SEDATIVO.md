@@ -1,0 +1,1 @@
+SEDATIVO (Custo: 1 Ação) Até o começo de seu próximo turno, todas as criaturas precisam gastar 1 Ação adicional para Atacar.

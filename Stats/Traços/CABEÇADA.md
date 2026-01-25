@@ -1,0 +1,1 @@
+CABEÇADA (Custo: 1 Sucesso) Depois de atacar uma criatura, empurre-a para 1 Pernada de você. Se a criatura estiver escalando ou voando, ela cai no Chão.

@@ -1,0 +1,1 @@
+HIBERNADOR (Passiva) Cada nível de Descansado aumenta seu Vigor máximo em 2 em vez de 1.

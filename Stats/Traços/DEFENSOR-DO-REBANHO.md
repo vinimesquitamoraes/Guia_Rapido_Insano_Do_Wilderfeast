@@ -1,0 +1,1 @@
+DEFENSOR-DO-REBANHO (Passiva) Se você Agrupar com uma criatura, vocês dois podem Levantar a Guarda sem gastar Ações. 

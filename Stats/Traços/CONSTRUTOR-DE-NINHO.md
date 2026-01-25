@@ -1,0 +1,1 @@
+CONSTRUTOR-DE-NINHO (Passiva) Quando a matilha Acampa, você e seus parças podem manter todos os níveis de uma Condição ao invés de removê-los.

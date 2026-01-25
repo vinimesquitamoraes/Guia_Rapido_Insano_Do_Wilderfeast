@@ -1,0 +1,1 @@
+GIGANTESCO (Passiva) Trate todas as criaturas como se estivessem 3 Pernadas mais próximas de você do que realmente estão.

@@ -1,0 +1,1 @@
+CHOQUE-ELÉTRICO (Custo: 2 Ações) Faça um CHAMAR LIGEIRO. Se passar, cada criatura a até 1 Pernada sofre [A] de Dano e fica Atordoada.

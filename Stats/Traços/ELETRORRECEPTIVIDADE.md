@@ -1,0 +1,1 @@
+ELETRORRECEPTIVIDADE (Passiva) Criaturas Escondidas não têm Vantagem se Atacarem você.Criaturas ELETRORRECEPTIVAS podem sentir correntes elétricas, principalmente as geradas por outros animais. Este TRAÇO poderia representar outros sentidos pouco convencionais, como a habilidade para detectar radiação infravermelha ou leylinhas, sem mudar a mecânica.

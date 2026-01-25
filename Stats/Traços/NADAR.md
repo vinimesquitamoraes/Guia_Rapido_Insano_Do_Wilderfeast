@@ -1,0 +1,1 @@
+NADAR (Passiva) Você pode nadar sem Desvantagem.

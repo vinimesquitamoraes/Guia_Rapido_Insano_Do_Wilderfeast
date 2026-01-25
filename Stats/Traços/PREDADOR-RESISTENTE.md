@@ -1,0 +1,1 @@
+PREDADOR-RESISTENTE (Custo: 1 Sucesso PODEROSO on LIGEIRO) Uma criatura à sua escolha fica Fadigada. 

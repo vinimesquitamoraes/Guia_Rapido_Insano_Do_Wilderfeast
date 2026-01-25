@@ -1,0 +1,1 @@
+ESTASE (Passiva) Quando estiver prestes a morrer, você entra em estase. Sua matilha deve Trabalhar em um Projeto durante o Recesso para revivê-lo, completando um Desafio VA 10. O VA aumenta em 10 para cada vez que você usa esse TRAÇO subsequentemente. • EXPANDIR. (Custo: 1 Ação) Você fica Expandido.

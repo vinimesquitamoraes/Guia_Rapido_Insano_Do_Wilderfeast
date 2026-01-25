@@ -1,6 +1,6 @@
-Para atacar, faça <span style="color:065ab5">GOLPEAR</span> ou <span style="color:065ab5">ATIRAR</span>, usando qualquer <span style="color:ffec27">ESTILO</span>. A escolha de Habilidade depende do Alcance da PARTE que está sendo usada para  Atacar. O Monstro, às vezes, pode usar <a style="color:065ab5" href="obsidian://open?vault=Guia_Rapido_Insano_Do_Wilderfeast&file=Prints%2FHabilidades.png">HABILIDADES</a> alternativas para atacar, listada em parênteses depois da PARTE relevante.
+Para atacar, faça <a style="color:065ab5" href="obsidian://open?vault=Guia_Rapido_Insano_Do_Wilderfeast&file=Prints%2FHabilidades.png">GOLPEAR</a> ou <span style="color:065ab5">ATIRAR</span>, usando qualquer <span style="color:ffec27">ESTILO</span>. A escolha de Habilidade depende do Alcance da PARTE que está sendo usada para  Atacar. O Monstro, às vezes, pode usar <a style="color:065ab5" href="obsidian://open?vault=Guia_Rapido_Insano_Do_Wilderfeast&file=Prints%2FHabilidades.png">HABILIDADES</a> alternativas para atacar, listada em parênteses depois da PARTE relevante.
 
-Além disso, um ataque tem diferentes efeitos e custos dependendo do seu Estilo:
+Além disso, um ataque tem diferentes efeitos e custos dependendo do seu Estilo
 
 | <center>Estilo</center>                                     | <center>Custo<br>(Ações)</center> | <center>Descrição</center> | <center>Se Acertar</center> | <center>Se Errar</center>                      |
 | ----------------------------------------------------------- | --------------------------------- | -------------------------- | --------------------------- | ---------------------------------------------- |

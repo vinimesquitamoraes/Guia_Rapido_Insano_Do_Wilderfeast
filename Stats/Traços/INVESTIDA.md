@@ -1,0 +1,1 @@
+INVESTIDA (Custo: 1 Ação) Escolha uma criatura a até 3 Pernadas. Você se Move a 0 Pernada da criatura e então causa Dano a ela e a si mesmo ao número de Pernadas que você se Moveu (Isso não conta como gastar Vigor.)

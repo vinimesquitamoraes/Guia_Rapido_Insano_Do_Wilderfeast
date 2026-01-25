@@ -1,0 +1,1 @@
+CULTIVADOR (Passiva) Dobre os efeitos recebidos por ceder sua porção do Banquete.

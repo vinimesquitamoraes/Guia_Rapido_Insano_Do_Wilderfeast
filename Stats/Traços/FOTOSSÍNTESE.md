@@ -1,0 +1,1 @@
+FOTOSSÍNTESE (Custo: 3 Ações) Se você tiver acesso ao Céu, recupere seu Vigor para o máximo.

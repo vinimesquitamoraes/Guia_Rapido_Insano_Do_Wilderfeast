@@ -1,0 +1,1 @@
+INCANSÁVEL (Custo: 1 Sucesso PODEROSO) Remove <H> Fadigado e recupera <H> Vigor.

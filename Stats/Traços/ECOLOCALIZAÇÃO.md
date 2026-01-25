@@ -1,0 +1,1 @@
+ECOLOCALIZAÇÃO (Custo: 1 Sucesso em um CHAMAR) Uma criatura à sua escolha fica Exposta.

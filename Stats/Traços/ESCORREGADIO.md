@@ -1,0 +1,1 @@
+ESCORREGADIO (Passiva) Você não pode ficar Preso.

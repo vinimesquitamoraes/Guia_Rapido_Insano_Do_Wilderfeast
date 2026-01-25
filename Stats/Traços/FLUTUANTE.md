@@ -1,0 +1,1 @@
+FLUTUANTE (Passiva) Desde que você possa voar, pode ignorar os Traços desta Área.

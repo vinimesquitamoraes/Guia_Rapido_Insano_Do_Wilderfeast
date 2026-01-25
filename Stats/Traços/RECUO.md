@@ -1,0 +1,1 @@
+RECUO (Custo: 1 Sucesso PODEROSO ou PRECISO) Você Levanta a guarda sem gastar Ações, mas não pode se Mover até o início do seu próximo turno.

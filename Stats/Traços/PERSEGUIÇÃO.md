@@ -1,0 +1,1 @@
+PERSEGUIÇÃO DO PREDADOR (Passina) Se você se Mover em direção a uma criatura, ganhe Vantagem ao Ataca-la até o final do seu turno.

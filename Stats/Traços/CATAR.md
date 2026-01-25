@@ -1,0 +1,1 @@
+CATAR PIOLHO (Passiva) Se você ajudar um parça a ASSEGURAR, CHAMAR ou EXIBIR e passarem, a Harmonia aumenta em 1.

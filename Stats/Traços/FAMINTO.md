@@ -1,0 +1,1 @@
+FAMINTO representa o desejo de viver, se alimentar e crescer, amplificado por uma força sobrenatural. Toda vida tem fome, mas esse TRAÇO misterioso representa uma fome primordial e sobrenatural acima de tudo. Quando os ferais abraçam essa fome extrema, criam aberturas para que o frenesi se espalhe, tanto por dentro quanto por fora.

@@ -1,0 +1,1 @@
+BRINCALHÃO (Custo: 1 Sucesso) Harmonia aumenta em 1. Você pode aumentar Harmonia além do máximo, mas só pode usar esse TRAÇO durante o Recesso.

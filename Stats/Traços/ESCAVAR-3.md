@@ -1,0 +1,1 @@
+ESCAVAR-3 (Passiva) Você pode cavar. Além disso, ao Mover-se enquanto cava, você pode se Mover até 2 Pernadas em vez de 1. Por fim, você tem Vantagem em ATRAVESSAR enquanto cava.

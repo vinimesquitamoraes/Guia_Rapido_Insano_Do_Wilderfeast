@@ -1,2 +1,1 @@
-
 Se estiver a 1 Pernada do Monstro, você se torna alvo dele. (O alvo do Monstro é a única criatura que ele pode Atacar. Você continua sendo o alvo do Monstro até que ele possa escolher um novo alvo — normalmente, no começo da próxima rodada ou quando outro feral Provocar). Monstros não podem Provocar.

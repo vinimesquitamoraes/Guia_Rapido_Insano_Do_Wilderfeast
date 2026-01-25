@@ -1,0 +1,1 @@
+VOAR-2 (Passiva) Você pode voar. Além disso, caso se Mova enquanto voa, você pode se Mover 2 Pernadas em vez de 1.

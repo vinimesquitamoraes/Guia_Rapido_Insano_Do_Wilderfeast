@@ -1,0 +1,1 @@
+MERGULHAR (Custo: 1 Ação) Mova para até 0 Pernada de uma criatura em um Terreno abaixo de você (Céu está acima da maioria dos Terrenos, e o Subterrâneo está abaixo da maioria dos Terrenos. Nos demais casos, avalie conforme seu julgamento).

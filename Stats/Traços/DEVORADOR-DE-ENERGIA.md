@@ -1,0 +1,1 @@
+DEVORADOR-DE-ENERGIA (Passiva) Se estiver Convalescente e passar o Recesso próximo a uma leylinha, você recupera 10 de Vigor. Se estiver Ferido e passar o Recesso próximo a uma leylinha, você remove um nível adicional de Ferido. 

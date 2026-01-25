@@ -1,0 +1,1 @@
+BANHA-2 (Passiva) Seu Vigor máximo aumenta em 10.

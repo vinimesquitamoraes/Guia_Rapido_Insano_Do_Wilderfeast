@@ -1,0 +1,1 @@
+ BANHA. (Passiva) Seu Vigor máximo aumenta em 10, mas somente durante A Trilha.

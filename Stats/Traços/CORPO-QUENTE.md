@@ -1,0 +1,1 @@
+CORPO-QUENTE (Passiva) No começo de cada rodada, todas as criaturas à sua escolha em até 0 Pernada de você sofrem 2 de Dano. Além disso, se você estiver Preso por uma PARTE, essa PARTE fica Queimada. Por fim, suas PARTES não podem ficar Queimadas. . 

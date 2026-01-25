@@ -1,0 +1,1 @@
+VOAR (Passiva) Você pode voar.

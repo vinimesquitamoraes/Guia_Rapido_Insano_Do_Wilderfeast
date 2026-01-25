@@ -1,0 +1,1 @@
+TECE-TEIAS (Custo: 2 Ações) Faça um MANUFATURAR SAGAZ. Se passar, na próxima vez em que uma criatura hostil se Mover em sua direção, ela sofre [A] Dano à Parte e não pode se Mover até o início do próximo turno.TECE-TEIAS é mecanicamente idêntico à Técnica de Barbante nomeada ARMADILHA, mas já que não é uma Técnica em si, você pode usar TECE-TEIAS para virar o bicho.

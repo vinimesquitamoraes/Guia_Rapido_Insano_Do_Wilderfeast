@@ -1,0 +1,1 @@
+TERRITORIAL (Passiva) Você tem Vantagem em todos os Testes contra intrusos em sua Toca.

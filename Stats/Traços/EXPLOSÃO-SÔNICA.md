@@ -1,0 +1,1 @@
+EXPLOSÃO-SÔNICA (Passiva) Quando Atacar, você pode CHAMAR em vez de ATIRAR ou GOLPEAR.

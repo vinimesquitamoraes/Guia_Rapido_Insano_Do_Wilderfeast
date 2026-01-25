@@ -1,0 +1,1 @@
+SANGUESSUGA (Custo: 3 Ações) Faça um GOLPEAR PRECISO contra uma criatura a 1 Pernada de distância. Se passar, você ganha um nível em um dos ESTILOS, HABILIDADES ou TRAÇOS da criatura até o final da Jornada (a criatura NÃO precisa ter mais níveis na característica escolhida do que você). Se você usar esse TRAÇO de novo, troque o nível que ganhou anteriormente pelo novo.

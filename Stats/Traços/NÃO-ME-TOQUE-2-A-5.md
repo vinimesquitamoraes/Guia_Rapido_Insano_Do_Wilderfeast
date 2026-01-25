@@ -1,0 +1,1 @@
+NÃO-ME-TOQUE-2-A-5 (Passiva) Se uma criatura fizer um AGARRAR ou GOLPEAR contra você, cause 1 de Dano a ela para cada nível desse TRAÇO.

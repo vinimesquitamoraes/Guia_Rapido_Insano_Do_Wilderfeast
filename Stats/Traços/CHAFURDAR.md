@@ -1,0 +1,1 @@
+CHAFURDAR (Passiva) Quando você Acampa, pode restaurar uma PARTE para sua Durabilidade máxima.

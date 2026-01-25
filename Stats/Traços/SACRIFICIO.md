@@ -1,0 +1,1 @@
+SACRIFICIO PARENTAL (Passiva) No início do Recesso, em vez de remover Ferido 1, você pode Trabalhar num Projeto sem gastar Ações.

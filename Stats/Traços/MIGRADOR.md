@@ -1,0 +1,1 @@
+MIGRADOR Você tem Vantagem para ATRAVESSAR em áreas onde já esteve.

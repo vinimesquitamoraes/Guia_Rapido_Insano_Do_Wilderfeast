@@ -1,0 +1,1 @@
+PREDADOR-DE-EMBOSCADA (Passiva) Se você Atacar enquanto estiver Escondido, você causa o dobro do Dano.

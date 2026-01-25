@@ -1,0 +1,1 @@
+PACIÊNCIA (Passiva) Você pode Preparar até 3 vezes por turno.

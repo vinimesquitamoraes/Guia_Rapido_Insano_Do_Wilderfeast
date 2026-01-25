@@ -1,0 +1,1 @@
+VELOCIDADE (Custo: 1 Sucesso LIGEIRO) Você pode se Mover sem gastar uma Ação.

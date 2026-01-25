@@ -1,0 +1,1 @@
+TANATOSE (Passiva) Se você estiver Ferido 3 e permanecendo caído, no final de cada turno, você pode forçar a barra em vez disso. Se estiver Ferido 3 e forçando a barra, no início do seu turno, você pode escolher permanecer caído em vez disso.

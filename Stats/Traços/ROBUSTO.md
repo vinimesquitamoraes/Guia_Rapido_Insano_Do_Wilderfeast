@@ -1,0 +1,1 @@
+ROBUSTO (Passiva) Nada pode empurrá-lo ou puxá-lo, a menos que você permita ou esteja Preso.

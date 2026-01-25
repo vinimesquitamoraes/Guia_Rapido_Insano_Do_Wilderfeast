@@ -1,0 +1,1 @@
+DIETA-SELETIVA (Passiva) Quando receber esse TRAÇO, nomeie um Ingrediente. Você recebe <H> porções desse Ingrediente no começo de cada Recesso e quando Reabastecer.

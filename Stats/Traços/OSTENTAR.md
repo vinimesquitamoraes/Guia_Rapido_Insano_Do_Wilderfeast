@@ -1,0 +1,1 @@
+OSTENTAR (Custo: 2 Ações) Faça um EXIBIR PODEROSO. Se passar, todas as criaturas à sua escolha recuperam [A] de Vigor.

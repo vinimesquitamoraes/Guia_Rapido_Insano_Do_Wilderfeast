@@ -1,0 +1,1 @@
+ESCAVAR (Passiva) Você pode cavar.

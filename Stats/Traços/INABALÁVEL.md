@@ -1,0 +1,1 @@
+INABALÁVEL (Passiva) Você não pode ficar Confuso.

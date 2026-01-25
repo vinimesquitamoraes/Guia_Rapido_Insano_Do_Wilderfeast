@@ -1,20 +1,20 @@
 {
 	"nodes":[
-		{"id":"037987669fad06c4","x":-2200,"y":200,"width":2633,"height":1360,"type":"group","label":"Opções de Combate"},
+		{"id":"037987669fad06c4","type":"group","x":-2200,"y":200,"width":2633,"height":1360,"label":"Opções de Combate"},
 		{"id":"d185f1f5f7448c58","type":"file","file":"Gameplay/Passos de Rolagem.png","x":-1160,"y":-800,"width":560,"height":740},
 		{"id":"a16012b4a7a98ddf","type":"file","file":"Prints/Habilidades.png","x":-2960,"y":-800,"width":1046,"height":740},
 		{"id":"ed2c09d25816db5f","type":"text","text":"Se você possui >= 1 na habilidade testada, é possível incrementar o resultado dos dados de acordo com o nível da habilidade.\no incremento é distribuível:\nExemplo:\n\tTesouro possui +2 em Cura;\n\tTesouro jogou tirou 4, 4 e 1 nos dados de Estilo e 7 no dado de Ação;\n\tTesouro pode aumentar um dos dados de Estilo em +1 e o dado de ação em +1;\n\tFicando por exemplo como:\n\t 5, 4, 1 e 8;\n\t","x":-1780,"y":-650,"width":500,"height":440,"color":"1"},
 		{"id":"7eeb9343943ef69e","type":"file","file":"Gameplay/Vantagem e Desvantagem.md","x":-500,"y":-670,"width":920,"height":480},
 		{"id":"055f1abfd70dc5cf","type":"file","file":"Gameplay/Brio e Tino.md","x":-1320,"y":-1720,"width":880,"height":760},
-		{"id":"1e70a32ab694b63b","x":-2180,"y":264,"width":813,"height":718,"type":"file","file":"Gameplay/Opções De Combate/Atacar (Variável).md"},
-		{"id":"e8e3cbf8937bc301","x":-2180,"y":1080,"width":813,"height":160,"type":"file","file":"Gameplay/Opções De Combate/Comer (1 Ação).md"},
-		{"id":"60edac3897a26294","x":-2180,"y":1300,"width":813,"height":200,"type":"file","file":"Gameplay/Opções De Combate/Preparar(1 Ação).md"},
-		{"id":"6c85c132f99e65cf","x":-1307,"y":264,"width":417,"height":200,"type":"file","file":"Gameplay/Opções De Combate/Consertar(2 Ações).md"},
-		{"id":"a7c50b6aa28b3220","x":-1298,"y":520,"width":400,"height":280,"type":"file","file":"Gameplay/Opções De Combate/Improvisar(1 Ação).md"},
-		{"id":"84001d05d5e2ff7a","x":-1290,"y":880,"width":843,"height":620,"type":"file","file":"Gameplay/Opções De Combate/Mover(1 Ação).md"},
-		{"id":"c53ef3022660a481","x":-847,"y":264,"width":400,"height":536,"type":"file","file":"Gameplay/Opções De Combate/Levantar a Guarda (2 Ações).md"},
-		{"id":"3ff1ae7d4b1d2f22","x":-387,"y":264,"width":780,"height":536,"type":"file","file":"Gameplay/Opções De Combate/Provocar(1 Ação).md"},
-		{"id":"e123fe3855d71174","x":-387,"y":900,"width":780,"height":600,"type":"file","file":"Gameplay/Opções De Combate/Usar um Traço(Variável).md"}
+		{"id":"1e70a32ab694b63b","type":"file","file":"Gameplay/Opções De Combate/Atacar (Variável).md","x":-2180,"y":264,"width":813,"height":718},
+		{"id":"e8e3cbf8937bc301","type":"file","file":"Gameplay/Opções De Combate/Comer (1 Ação).md","x":-2180,"y":1080,"width":813,"height":160},
+		{"id":"60edac3897a26294","type":"file","file":"Gameplay/Opções De Combate/Preparar(1 Ação).md","x":-2180,"y":1300,"width":813,"height":200},
+		{"id":"6c85c132f99e65cf","type":"file","file":"Gameplay/Opções De Combate/Consertar(2 Ações).md","x":-1307,"y":264,"width":417,"height":200},
+		{"id":"a7c50b6aa28b3220","type":"file","file":"Gameplay/Opções De Combate/Improvisar(1 Ação).md","x":-1298,"y":520,"width":400,"height":280},
+		{"id":"84001d05d5e2ff7a","type":"file","file":"Gameplay/Opções De Combate/Mover(1 Ação).md","x":-1290,"y":880,"width":843,"height":620},
+		{"id":"c53ef3022660a481","type":"file","file":"Gameplay/Opções De Combate/Levantar a Guarda (2 Ações).md","x":-847,"y":264,"width":400,"height":536},
+		{"id":"3ff1ae7d4b1d2f22","type":"file","file":"Gameplay/Opções De Combate/Provocar(1 Ação).md","x":-387,"y":264,"width":780,"height":536},
+		{"id":"e123fe3855d71174","type":"file","file":"Gameplay/Opções De Combate/Usar um Traço(Variável).md","x":-387,"y":900,"width":780,"height":600}
 	],
 	"edges":[
 		{"id":"64a1715ebc435f5b","fromNode":"a16012b4a7a98ddf","fromSide":"right","toNode":"ed2c09d25816db5f","toSide":"left","color":"1"},

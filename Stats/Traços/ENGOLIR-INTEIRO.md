@@ -1,0 +1,1 @@
+ENGOLIR-INTEIRO (Custo: 1 Ação) Coma qualquer quantidade de Ingredientes para recuperar uma quantidade igual de Vigor. Você não recebe nenhum efeito bônus.

@@ -1,0 +1,1 @@
+ESCAVAR-2 (Passiva) Você pode cavar. Além disso, ao Mover-se enquanto cava, você pode se Mover até 2 Pernadas em vez de 1.

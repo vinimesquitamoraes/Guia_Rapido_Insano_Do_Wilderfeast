@@ -1,0 +1,1 @@
+BIOLUMINESCÊNCIA 3 (Custo: 1 Sucesso SAGAZ) Uma criatura à sua escolha fica Confusa 3.

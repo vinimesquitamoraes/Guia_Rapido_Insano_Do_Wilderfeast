@@ -1,0 +1,1 @@
+METAMORFOSE (Passiva) Durante O Banquete, você pode perder este TRAÇO permanentemente. Se fizer isso, escolha dois ESTILOS, HABILIDADES ou TRAÇOS para ganhar um nível no lugar deste traço.

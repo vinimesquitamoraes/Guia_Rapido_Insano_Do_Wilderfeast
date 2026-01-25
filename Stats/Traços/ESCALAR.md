@@ -1,0 +1,1 @@
+ESCALAR (Passiva) Você pode ESCALAR sem Desvantagem.

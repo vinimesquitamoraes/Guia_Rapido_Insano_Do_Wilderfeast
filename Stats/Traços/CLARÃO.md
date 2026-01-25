@@ -1,0 +1,1 @@
+CLARÃO (Custo: 2 Ações) Faça um EXIBIR LIGEIRO. Se passar, uma criatura à sua escolha fica Atordoada e Confusa [A]. 

@@ -1,0 +1,1 @@
+FERMENTADOR (Passiva) Quando comer uma refeição, em vez de recuperar Vigor, você pode receber um número de níveis de Revigorado igual à metade da Vigor que teria recuperado.O Traço FERMENTADOR representa tanto fermentadores de digestão dianteira (conhecidos como ruminantes) quanto traseira; ambos são especializados em extrair nutrientes de plantas de dificil digestão.

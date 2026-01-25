@@ -1,0 +1,1 @@
+DIGESTÃO-LENTA (Passiva) Refeições com efeitos que durem até a sua próxima refeição duram até o fim da Jornada.

@@ -1,0 +1,1 @@
+REGENERAÇÃO (Custo: 1 Sucesso) Recupere 1 de Durabilidade de uma de suas PARTES.

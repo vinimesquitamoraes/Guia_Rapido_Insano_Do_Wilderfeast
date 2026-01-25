@@ -1,0 +1,1 @@
+CHEIRO-DE-SANGUE (Passiva) Você tem Vantagem em todos os Testes durante a primeira rodada da Caçada se do outro lado houver uma criatura Ferida.

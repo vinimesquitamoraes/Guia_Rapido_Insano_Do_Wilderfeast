@@ -1,0 +1,1 @@
+PROFESSOR (Custo: 1 Sucesso PRECISO) Até o final da rodada, seus parças têm Vantagem se fizerem um Teste usando a mesma HABILIDADE que você usou ao ativar esse TRAÇO.

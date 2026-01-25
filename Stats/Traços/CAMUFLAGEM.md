@@ -1,0 +1,1 @@
+CAMUFLAGEM (Custo: 1 Sucesso SAGAZ) Você fica Escondido.

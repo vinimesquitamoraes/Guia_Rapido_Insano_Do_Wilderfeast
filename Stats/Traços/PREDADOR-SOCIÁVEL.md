@@ -1,0 +1,1 @@
+PREDADOR-SOCIÁVEL (Passive) Se você Agrupar com uma criatura ela tem Vantagem na próxima vez que Atacar.

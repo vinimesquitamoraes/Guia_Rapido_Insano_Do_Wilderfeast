@@ -1,0 +1,1 @@
+DESORIENTAR (Passiva) Criaturas que ataquem você (acertando ou não) ficam Confusas.

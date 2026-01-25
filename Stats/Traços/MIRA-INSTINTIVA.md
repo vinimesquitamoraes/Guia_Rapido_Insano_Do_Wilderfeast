@@ -1,0 +1,1 @@
+MIRA-INSTINTIVA (Custo: 1 Sucesso em ATIRAR) A criatura atingida por ATIRAR fica Atordoada.

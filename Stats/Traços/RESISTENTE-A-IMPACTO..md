@@ -1,0 +1,1 @@
+RESISTENTE-A-IMPACTO. (Passiva) Você não pode ficar Atordoado.

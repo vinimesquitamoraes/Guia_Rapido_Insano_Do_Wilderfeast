@@ -1,0 +1,1 @@
+NADAR-3 (Passiva) Você pode nadar sem Desvantagem. Além disso, caso se Mova enquanto nada, você pode se Mover até 2 Pernadas em vez de 1. Por fim, você tem Vantagem para ATRAVESSAR enquanto nada.

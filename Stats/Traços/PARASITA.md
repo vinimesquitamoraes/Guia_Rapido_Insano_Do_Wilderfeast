@@ -1,0 +1,1 @@
+PARASITA DE NINHADA (Passiva) Quando trabalhar em um Projeto, escolha um NPC: o personagem escolhido também faz um Teste para contribuir para o seu projeto. (Trabalhe com a Guia para determinar os detalhes, como a maneira como o NPC ajuda e como você o convenceu a fazê-lo.)

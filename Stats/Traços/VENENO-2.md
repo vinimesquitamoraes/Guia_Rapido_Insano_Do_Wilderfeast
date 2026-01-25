@@ -1,0 +1,1 @@
+VENENO-2 (Custo: 1 Sucesso em ATIRAR ou GOLPEAR) A criatura atingida por ATIRAR ou GOLPEAR fica Envenenada 2. 

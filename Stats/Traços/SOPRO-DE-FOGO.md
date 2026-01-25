@@ -1,0 +1,1 @@
+SOPRO-DE-FOGO (Custo: 2 Ações) Faça um ATIRAR PODEROSO contra uma criatura a até 2 Pernadas de distância. Se acertar, você causa [A] Dano à Parte e a PARTE que você alvejou fica Queimada.

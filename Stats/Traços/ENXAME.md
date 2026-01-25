@@ -1,0 +1,1 @@
+ENXAME (Passiva) Se você ajudar uma criatura que também tem esse TRAÇO, ambos recuperam <H> de Vigor.

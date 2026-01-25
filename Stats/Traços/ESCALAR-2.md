@@ -1,0 +1,1 @@
+ESCALAR-2 (Passiva) Você pode ESCALAR sem Desvantagem. Além disso, ao Mover-se enquanto escala, você pode se Mover 2 Pernadas em vez de 1.
